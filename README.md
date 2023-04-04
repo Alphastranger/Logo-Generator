@@ -14,4 +14,4 @@ and also clean up the shape classes, as they had a lot of redundant and useless 
 - At this point all of the tests I set up seemed to run perfectly and the program itself
 generated an svg file to all of the specifications I wanted.
 
-[Walkthrough-Video]()
+[Walkthrough-Video](https://drive.google.com/file/d/1C5uy91Snh5raacXklTi_UaG913cc4By3/view)

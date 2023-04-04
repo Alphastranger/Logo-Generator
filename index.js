@@ -8,12 +8,6 @@ const userQuestions = () => {
             type: 'input',
             name: 'text',
             message: 'Enter text up to three characters.',
-            // validate: function(input){
-            //     if (input.indexof > 3)
-            //     {console.log('Text too long, please keep it below three characters.');
-            //     return; }
-
-            // }
         },
         {
             type: 'input',
